@@ -8,3 +8,8 @@ Rishi MS institute of engineering and technology for women
 
 
 
+what is a git?
+git is a distributed version control system
+
+
+
